@@ -83,7 +83,7 @@ I'm a **Full-Stack MERN Developer** passionate about building modern, scalable, 
 ### 🤖 AI / ML
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn" alt="AI ML Technologies"/>
+  <img src="https://skillicons.dev/icons?i=python,sklearn" alt="AI ML Technologies"/>
 </a>
 
 ### 🔧 Tools & Platforms
