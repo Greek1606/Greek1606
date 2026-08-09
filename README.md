@@ -104,13 +104,15 @@ I'm a **Full-Stack MERN Developer** passionate about building modern, scalable, 
 
 ## 📊 GitHub Analytics
 
-<a href="https://github.com/Greek1606">
+<p align="center">
+  <a href="https://github.com/Greek1606">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Greek1606&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&ring_color=EF93C4&include_all_commits=true" alt="GitHub Stats"/>
+  </a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Greek1606&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&ring_color=EF93C4&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greek1606&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=F8BBD0&langs_count=8" alt="Top Languages"/>
-
-</a>
+  <a href="https://github.com/Greek1606">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Greek1606&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=F8BBD0&langs_count=8" alt="Top Languages"/>
+  </a>
+</p>
 
 <br><br>
 
