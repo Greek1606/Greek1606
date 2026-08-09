@@ -44,7 +44,11 @@ I'm a **Full-Stack MERN Developer** passionate about building modern, scalable, 
 
 <td width="35%" align="center">
 
-<img src="[YOUR_PROFILE_IMAGE_URL]" width="280" alt="Greek Kumar"/>
+<img src="https://github.com/Greek1606.png"
+     width="280"
+     height="280"
+     alt="Greek Kumar"
+     style="border-radius: 50%; object-fit: cover; border: 3px solid #ff69b4;">
 
 <br><br>
 
